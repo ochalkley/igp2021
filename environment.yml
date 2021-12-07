@@ -1,0 +1,9 @@
+name: myenv
+
+dependencies:
+  - python=3.7
+  - numpy
+  - toolz
+  - matplotlib
+  - dill
+  - pandas
